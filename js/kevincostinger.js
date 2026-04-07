@@ -39,7 +39,7 @@
  *     the scope of his variables and of course, makes use of
  *     event delegation, to keep his event listeners tidied up!
  *
- *     You - 2026-03-25
+ *     Kristina - 2026-04-07
  *******************************************************/
 let sumExpenses = 0; //Use this variable to keep the sum up to date.
 
